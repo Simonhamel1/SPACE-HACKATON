@@ -1,1 +1,11 @@
-test
+# Ignorer le fichier idee.docx
+idee.docx
+
+# Ignorer les fichiers avec les extensions spécifiées dans n'importe quel dossier
+*.log
+*.fls
+*.toc
+*.gz
+*.aux
+*.out
+*.fdb_latexmk
